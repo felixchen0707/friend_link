@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 问题 & 讨论 & 建议
+    url: https://github.com/felixchen0707/friend_link/discussions
+    about: 在discussions中对友链仓库提出问题/讨论/建议
