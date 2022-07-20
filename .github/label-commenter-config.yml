@@ -1,0 +1,22 @@
+labels:
+  - name: 'active'
+    labeled:
+      issue:
+        body: |
+          **您的友链申请已通过！**
+          
+          现在，您的站点将出现在友链界面。
+  - name: 'best'
+    labeled:
+      issue:
+        body: |
+          **您的友链申请已通过！**
+          
+          现在，您的站点将出现在友链界面。
+  - name: 'top'
+    labeled:
+      issue:
+        body: |
+          **您的友链申请已通过！**
+          
+          现在，您的站点将出现在友链界面。
