@@ -20,3 +20,11 @@ labels:
           **您的友链申请已通过！**
           
           现在，您的站点将出现在友链界面。
+          
+  - name: 'cancelled'
+    labeled:
+      issue:
+        body: |
+          **您的友链申请已被取消！**
+          
+          请您前往[友链板块](https://felixchen0707.cn/link/)查看原因。
